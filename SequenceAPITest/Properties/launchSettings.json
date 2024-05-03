@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SequenceAPITest": {
+      "commandName": "Project",
+      "commandLineArgs": "--endpoint https://remote.getsequence.io/remote-api/rules/1de462ed-d470-4445-9bcc-ef629e38b2e9/trigger --secret 6d209e9b-aff7-410f-bedd-da484144bae5"
+    }
+  }
+}
